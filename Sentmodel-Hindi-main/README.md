@@ -1,2 +1,2 @@
 # Sentmodel-Hindi
-Work done with Mayukhmali Das under Sudip Sir's supervision.
+Work done with Debadri Sengupta under Sudip Sir's supervision.
